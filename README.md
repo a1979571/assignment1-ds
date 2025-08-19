@@ -27,11 +27,9 @@ Returns true or false
 | ------------------------------- | ---------------------------------------------------------------                                              |
 | `Calculator.java`               | the interface that defines the remote operations implemented by your remote service.                         |
 | `CalculatorImplementation.java` | the implementation class for the remote operations.                                                          |
-| `CalculatorServer.java`         | Starts the RMI server.                                                                        |
+| `CalculatorServer.java`         | Starts the RMI server.                                                                                       |
 | `CalculatorClient.java`         | Client that connects to the server and tests operations.                                                     |
-                                           |
-
----
+                                
 
 
 ## Compilation

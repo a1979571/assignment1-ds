@@ -48,7 +48,7 @@ java CalculatorServer
 ---
 
 ## Running the Client
-
+![Calculator UI](images/client.jpeg)
 1. Open a new terminal window.
 2. Run the client:
 
@@ -56,15 +56,14 @@ java CalculatorServer
 java CalculatorClient
 ```
 
-![Calculator UI](images/client.jpeg)
-
 ---
 ## Testing 
 ```bash
 java -cp .;C:\Users\91810\Downloads\junit-4.13.2.jar;C:\Users\91810\Downloads\hamcrest-core-1.3.jar org.junit.runner.JUnitCore Assignment1.CalculatorTest
-
 ```
 ![Calculator UI](images/test.jpeg)
+
+---
 ## Testing Multiple Clients
 ```bash
 java MultiClient

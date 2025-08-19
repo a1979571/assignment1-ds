@@ -61,7 +61,7 @@ java CalculatorClient
 ```bash
 java -cp .;C:\Users\91810\Downloads\junit-4.13.2.jar;C:\Users\91810\Downloads\hamcrest-core-1.3.jar org.junit.runner.JUnitCore Assignment1.CalculatorTest
 ```
-![Calculator UI](images/test.jpeg)
+![Calculator UI](images/test.png)
 
 ---
 ## Testing Multiple Clients

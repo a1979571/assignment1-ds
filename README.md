@@ -45,7 +45,7 @@ Returns true or false
 ```bash
 java CalculatorServer
 ```
-![Calculator UI](images/Server.png)
+![Calculator UI](images/Server.jpeg)
 
 ---
 
@@ -58,7 +58,7 @@ java CalculatorServer
 java CalculatorClient
 ```
 
-![Calculator UI](images/client.png)
+![Calculator UI](images/client.jpeg)
 
 ---
 ## Testing 

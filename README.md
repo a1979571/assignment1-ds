@@ -65,6 +65,6 @@ java CalculatorClient
 
 ## Testing Multiple Clients
 
-![Calculator UI](images/Multi-Client.png)
+![Calculator UI](images/Multi-Client.jpeg)
 ---
 
